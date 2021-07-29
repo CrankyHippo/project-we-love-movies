@@ -12,7 +12,7 @@ To test this project fully using its frontend, both this repository and its fron
 
 The project backend itself can be tested using link below.
 
-Backend deployment on [Heroku](https://peaceful-sands-61422.herokuapp.com/movies), and modifying the link will display the data as detailed below.
+Backend deployment on my [Heroku App](https://peaceful-sands-61422.herokuapp.com/movies), and modifying the link will display the data as detailed below.
 
 ```
 

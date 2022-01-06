@@ -8,11 +8,6 @@ This project has a pre-built frontend that does not work properly when deployed 
 
 To test this project fully using its frontend, both this repository and its frontend counterpart at **https://github.com/djdenney/frontend-we-love-movies** needs to be deployed locally.
 
-## Testing
-
-The project backend itself can be tested using link below.
-
-Backend deployment on my [Heroku App](https://peaceful-sands-61422.herokuapp.com/movies), and modifying the link will display the data as detailed below.
 
 ```
 
